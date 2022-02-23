@@ -1,4 +1,3 @@
-# Future of transportation
 Years ago, we were promised to have flying cars.
 It’s 2022 and it’s still not a thing. But…
 
