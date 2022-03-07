@@ -20,4 +20,9 @@ Over the next decade, we expect to see millions of new jobs created globally due
 ### What are examples of green jobs?
 
 * Agriculture and forestry - positions related to pesticides, innovative nutrients, land management, urban farming, aquaculture
-* Energy storage - 
+* Energy storage - batteries, gravitational solutions, molten salt
+* Carbon capture - 
+* Renewable energy - 
+* Transportation
+* Green construction -
+* Materials - 
