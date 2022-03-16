@@ -1,5 +1,3 @@
-### What is a green job?
-
 You may have heard the term "green jobs", but are you sure you know what does it mean?
 
 According to [ILO](https://www.ilo.org/global/topics/green-jobs/news/WCMS_220248/lang--en/index.htm "International Labour Organization") (International Labour Organization) a green job is one that contribute to preserve or restore the environment:
