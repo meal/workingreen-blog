@@ -1,4 +1,3 @@
-## People of green jobs #1 - Perfect Day
 Welcome to the "People of green jobs" - a blogpost series where we interview people working at various green-tech companies. We're starting with [Perfect Day](http://perfectday.com/), a consumer biology company using precision fermentation to create a climate-positive food system, starting with animal-free, nature-identical dairy protein. Through three business units across B2B ingredients, consumer brands, and enterprise biology, Perfect Day is working with partners around the world to recreate the foods we love in a way that systemically builds a climate-positive future.
 
 
