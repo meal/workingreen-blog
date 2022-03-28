@@ -19,4 +19,4 @@ Perfect Day wants to make a difference in the world. Last year, Perfect Day cond
 #### How would you encourage people to join Perfect Day?
 I would encourage them to talk to any of us and hear our experiences of working in this company so far. We have demonstrated initial success, but we need more diverse experiences and knowledge to help us further scale up. If your knowledge and passion fit our mission, please join us!
 
-If you're interested in working at [Perfect Day](http://perfectday.com/), check out they're [open positions](https://workingreen.jobs/companies/perfect-day)!
+If you're interested in working at [Perfect Day](http://perfectday.com/), check out their [open positions](https://workingreen.jobs/companies/perfect-day)!
